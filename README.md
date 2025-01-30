@@ -18,7 +18,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,react-native,html,css,nodejs,mysql,blender,DevTo-Dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,nodejs,npm,postman,mysql,vscode,blender,arduino)](https://skillicons.dev)
 
 </br>
 

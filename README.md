@@ -1,7 +1,7 @@
 # Talyson Roberto
 
 - 🧑‍💻 Front End Developer;
-- 👨‍🎓 Grasuado em Sistemas para Internet;
+- 👨‍🎓 Graduado em Sistemas para Internet;
 
 ## 📫 Contato:
 

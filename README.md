@@ -1,6 +1,6 @@
 # Talyson Roberto
 
-- 🧑‍💻 Front End Developer;
+- 🧑‍💻 Desenvolvedor Full stack;
 - 👨‍🎓 Graduado em Sistemas para Internet;
 
 ## 📫 Contato:
@@ -25,7 +25,4 @@
 <div style="display: flex; justify-content: space-between;">
   <img height="160em" style="align-self: flex-start;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talysonroberto&layout=compact&langs_count=6&theme=dark"/>
   <img alt="gif" height="150" style="border-radius: 50px;" src="https://raw.githubusercontent.com/TalysonRoberto/talysonroberto/main/luffy_.gif">
-</div>
-<div align="right">
-❤️ 🐧
 </div>

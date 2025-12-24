@@ -20,8 +20,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,nodejs,python,npm,vscode,blender,arduino)](https://skillicons.dev)
 
-</br>
 
-<div style="display: flex; justify-content: space-between;">
-  <img height="160em" style="align-self: flex-start;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talysonroberto&layout=compact&langs_count=6&theme=dark"/>
-</div>

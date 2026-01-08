@@ -21,7 +21,8 @@
 
 ## 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=talysonroberto&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+<div align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=talysonroberto&theme=radical" alt="Streak Stats" />
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=talysonroberto&layout=compact&theme=radical)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talysonroberto&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</div>

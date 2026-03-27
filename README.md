@@ -17,7 +17,7 @@
 ## 🛠 Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,js,html,css,nodejs,python,vscode,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,js,html,css,nodejs,python,mysql,gamemakerstudio,vscode,github,figma)](https://skillicons.dev)
 
 ## 📊 Estatísticas
 

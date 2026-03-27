@@ -22,7 +22,7 @@
 ## 📊 Estatísticas
 
 <div align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=talysonroberto&theme=radical" alt="Streak Stats" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=talysonroberto&theme=soft-green&hide_border=falso&border_radius=4&locale=pt_BR&short_numbers=falso"
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talysonroberto&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </div>
